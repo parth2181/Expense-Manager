@@ -1,0 +1,9 @@
+*{
+    color: white;
+}
+body {
+    background: #1d2630;
+}
+input::placeholder{
+    text-align: center;
+}
